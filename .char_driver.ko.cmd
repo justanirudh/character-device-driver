@@ -1,1 +1,0 @@
-cmd_/home/paanir/Code/advsysprog/A5/Pathak_Anirudh_Assignment5/char_driver.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/paanir/Code/advsysprog/A5/Pathak_Anirudh_Assignment5/char_driver.ko /home/paanir/Code/advsysprog/A5/Pathak_Anirudh_Assignment5/char_driver.o /home/paanir/Code/advsysprog/A5/Pathak_Anirudh_Assignment5/char_driver.mod.o

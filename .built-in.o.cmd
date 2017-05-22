@@ -1,0 +1,1 @@
+cmd_/home/paanir/Code/advsysprog/A5/Pathak_Anirudh_Assignment5/built-in.o :=  rm -f /home/paanir/Code/advsysprog/A5/Pathak_Anirudh_Assignment5/built-in.o; ar rcsD /home/paanir/Code/advsysprog/A5/Pathak_Anirudh_Assignment5/built-in.o
